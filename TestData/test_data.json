@@ -1,0 +1,15 @@
+{
+   "url":"https://store.steampowered.com/",
+   "supported_langs":[
+      "english",
+      "spanish",
+      "french",
+      "german",
+      "italian",
+      "russian",
+      "japanese",
+      "portuguese",
+      "brazilian"
+   ],
+   "search_request":"Dota 2"
+}
